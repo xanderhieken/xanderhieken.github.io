@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/assets/AboutBackground.jpg"
+  image: "/assets/AboutBackground.jpeg"
 ---
 
 I'm a graduate student at Bellevue University working toward a Master of Science in Data Science- graduating in May 2020.
