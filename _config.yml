@@ -94,11 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Xander Hieken"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student at Bellevue University working towards a Master of Science in Data Science.
-Combining a strong background in financial analysis and sales with statistical programming, machine learning, and AI to become one of those unicorns everyone seems to be looking for. Whether you need someone to design an experiment from scratch or someone to make sure your data is cleaned and ready for a complex machine learning algorithm, I am ready to hit the ground running and create immediate value. "
+  avatar           : "https://imgur.com/ml7WgWK"
+  bio              : "Data Scientist Circa 2020 "
   location         : "Orlando, Florida"
-  email            : "xanderhieken@gmail.com"
+  #email            : "xanderhieken@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -106,28 +105,28 @@ Combining a strong background in financial analysis and sales with statistical p
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://xanderhieken.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/XanderHieken"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/XanderHieken"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xanderhieken"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/xanderhieken/"
+    #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://www.instagram.com/xanderhieken/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/XanderHieken"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/XanderHieken"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xanderhieken"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/xanderhieken/"
+   #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://www.instagram.com/xanderhieken/"
 
 
 # Reading Files
