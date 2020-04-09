@@ -10,6 +10,6 @@ header:
 
   image: "/assets/Tags.png"
 
-author_profile: false
+author_profile: true
 
 ---
