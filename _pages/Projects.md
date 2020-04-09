@@ -3,8 +3,13 @@ layout: archive
 permalink: /projects/
 title: "My Data Science Projects"
 author_profile: true
+excerpt: "Browse Projects Below or Go Directly to my GitHub Profile"
 header:
-  image: "/assets/ProjectsBackground.jpg"
+  overlay_image: "/assets/ProjectsBackground.jpg"
+  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  actions:
+    - label: "My GitHub Profile"
+      url: "https://github.com/xanderhieken/"  
 ---
 
 
