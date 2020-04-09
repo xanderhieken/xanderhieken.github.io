@@ -16,7 +16,7 @@ classes: wide
 excerpt: "Requesting Data from Twitter's Search and Streaming APIs"
 header:
   overlay_image: "/assets/TwitterBackground.jpg"
-  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   actions:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/TwitterGetter"
