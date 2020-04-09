@@ -12,6 +12,7 @@ tags:
  - SQL
  - SQLite
  - Streaming Data
+classes: wide
 excerpt: "Requesting Data from Twitter's Search and Streaming APIs"
 header:
   overlay_image: "/assets/TwitterBackground.jpeg"
