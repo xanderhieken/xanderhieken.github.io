@@ -13,7 +13,7 @@ tags:
  - SQLite
  - Streaming Data
 classes: wide
-excerpt: "Requesting Data from Twitter's Search and Streaming APIs"
+excerpt: "How to Request Data from Twitter's Search and Streaming APIs"
 header:
   overlay_image: "/assets/TwitterBackground.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
@@ -21,7 +21,7 @@ header:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/TwitterGetter"
 ---
-This notebook illustrates three methods of requesting data from Twitter's search and streaming API
+This notebook illustrates three different methods of requesting data from Twitter's search and streaming API
 
 Find the code on GitHub here: [Twitter Getter](https://github.com/xanderhieken/TwitterGetter)
 
