@@ -21,7 +21,7 @@ header:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/TwitterGetter"
 ---
-[This notebook illustrates three different methods of requesting data from Twitter's search and streaming API]{: .text-center}
+!(This notebook illustrates three different methods of requesting data from Twitter's search and streaming API){: .text-center}
 
 Find the code on GitHub here: [Twitter Getter](https://github.com/xanderhieken/TwitterGetter)
 
