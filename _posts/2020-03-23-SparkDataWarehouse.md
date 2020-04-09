@@ -11,7 +11,7 @@ tags:
 classes: wide
 excerpt: "Creating a Data Warehouse in Spark"
 header:
-  overlay_image: "/assets/DataWarehouseBackground.jpeg"
+  overlay_image: "/assets/DataWarehouseBackground.jpg"
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
   actions:
     - label: "Go to GitHub Repository"
