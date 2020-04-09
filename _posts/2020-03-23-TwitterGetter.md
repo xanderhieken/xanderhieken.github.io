@@ -4,14 +4,14 @@ date: 2020-03-23
 tags:
  - Python
  - API
- -OAuth2
- -Tweepy
- -JSON
- -Jupyter Notebook
- -Binder
- -SQL
- -SQLite
- -Streaming Data
+ - OAuth2
+ - Tweepy
+ - JSON
+ - Jupyter Notebook
+ - Binder
+ - SQL
+ - SQLite
+ - Streaming Data
 header:
   image: "/assets/TwitterBackground.jpg"
 excerpt: "Requesting Data from Twitter's Search and Streaming APIs"
