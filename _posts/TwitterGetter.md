@@ -20,4 +20,4 @@ This notebook illustrates three different methods of requesting data from Twitte
 
 Find the code on GitHub here: <a href="https://github.com/xanderhieken/TwitterGetter" target="_blank">Twitter Getter</a>.
 
-Launch the notebook in an <a href="https://mybinder.org/v2/gh/xanderhieken/TwitterGetter/d5797c9efa61dee4b190760b93eacd5e36f8a2e8"_blank">interactive binder</a>.
+Launch the notebook in an <a href="https://mybinder.org/v2/gh/xanderhieken/TwitterGetter/d5797c9efa61dee4b190760b93eacd5e36f8a2e8" target="_blank">interactive binder</a>.
