@@ -13,7 +13,7 @@ tags:
  - SQLite
  - Streaming Data
 header:
-  image: "/assets/TwitterBackground.jpg"
+  image: "/assets/TwitterBackground.jpeg"
 excerpt: "Requesting Data from Twitter's Search and Streaming APIs"
 ---
 This notebook illustrates three different methods of requesting data from Twitter's search and streaming API
