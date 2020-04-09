@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Xander Hieken"
-  avatar           : "https://imgur.com/ml7WgWK"
-  bio              : "Data Scientist Circa 2020 "
+  avatar           : "assets/AvatarPicture.jpeg"
+  bio              : "Data Scientist"
   location         : "Orlando, Florida"
   #email            : "xanderhieken@gmail.com"
   links:
