@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  overlay_image: ""/assets/AboutBackground.jpg""
+  overlay_image: "/assets/AboutBackground.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
   actions:
     - label: "My GitHub Repository"
