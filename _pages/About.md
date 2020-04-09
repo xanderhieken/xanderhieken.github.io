@@ -2,7 +2,11 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/assets/AboutBackground.jpeg"
+  overlay_image: ""/assets/AboutBackground.jpg""
+  overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  actions:
+    - label: "My GitHub Repository"
+      url: "https://github.com/xanderhieken/"
 ---
 
 I'm a graduate student at Bellevue University working toward a Master of Science in Data Science- graduating in May 2020.
