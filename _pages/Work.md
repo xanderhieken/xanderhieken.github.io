@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 permalink: /work/
 title: "My Data Science Work"
 collection: work
