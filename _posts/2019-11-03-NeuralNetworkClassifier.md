@@ -10,9 +10,9 @@ tags:
  - Keras
 excerpt: "How Build Neural Network Classifiers for Text and Images with Keras"
 header:
-  overlay_image: "/assets/NeuralBackground.jpg"
+  overlay_image: "/assets/NeuralBackground.png"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
-  teaser: "/assets/NeuralBackground.jpg"
+  teaser: "/assets/NeuralBackground.png"
   actions:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/NeuralNetworkClassifier"
