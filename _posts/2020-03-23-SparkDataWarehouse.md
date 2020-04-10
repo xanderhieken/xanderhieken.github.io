@@ -13,6 +13,7 @@ excerpt: "How to Create a Data Warehouse in Spark"
 header:
   overlay_image: "/assets/DataWarehouseBackground.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
+  teaser: "/assets/DataWarehouseTeaser.jpeg"
   actions:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/SparkDataWarehouse"
