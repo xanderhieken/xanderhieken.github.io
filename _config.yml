@@ -24,9 +24,9 @@ url                      : "https://xanderhieken.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xanderhieken/xanderhieken.github.io"
 teaser                   : "assets/Tags.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+logo                     : "assets/TinyTrail.jpg"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -96,11 +96,11 @@ author:
   avatar           : "assets/AvatarPicture.jpeg"
   bio              : "Data Scientist"
   location         : "Orlando, Florida"
-  #email            : "xanderhieken@gmail.com"
+  email            : "xanderhieken@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:xanderhieken@gmail.com
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:xanderhieken@gmail.com
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://xanderhieken.github.io/"
@@ -123,6 +123,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xanderhieken"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:xanderhieken@gmail.com
    #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://www.instagram.com/xanderhieken/"
