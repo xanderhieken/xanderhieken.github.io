@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /projects/
-title: "My Data Science Projects"
+permalink: /work/
+title: "My Data Science Work"
 author_profile: true
-excerpt: "Browse Projects Below or Go Directly to my GitHub Profile"
+excerpt: "Browse Works Below or Go Directly to my GitHub Profile"
 header:
   overlay_image: "/assets/ProjectsBackground.jpg"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
