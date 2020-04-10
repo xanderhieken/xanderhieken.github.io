@@ -16,19 +16,25 @@ I rarely post on social media, but if you care to follow me:
   <li>
     <div class="text">
       <div class="name"><a href="https://twitter.com/XanderHieken" rel="nofollow">Twitter</a></div>
-      <div class="description">Personal Twitter Account (I mostly post about hockey and video games).</div>
+      <div class="description">I mostly post about hockey and video games</div>
     </div>
   </li>
   <li>
     <div class="text">
       <div class="name"><a href="https://github.com/xanderhieken" rel="nofollow">GitHub</a></div>
-      <div class="description">My GitHub Profile.</div>
+      <div class="description">Check out the code for projects shown on this website</div>
     </div>
   </li>
   <li>
     <div class="text">
-      <div class="name"><a href="https://www.instagram.com/xanderhieken/" rel="nofollow">Instagram</a></div>
-      <div class="description">Personal Instagram with Very Infrequent Posts.</div>
+      <div class="name"><a href="https://www.linkedin.com/in/xanderhieken/" rel="nofollow">LinkedIn</a></div>
+      <div class="description">Connect with me and see what else I've been up to</div>
+    </div>
+  </li>
+  <li>
+    <div class="text">
+      <div class="name"><a href="mailto:xanderhieken@gmail.com" rel="nofollow">Email</a></div>
+      <div class="description">I usually respond immediately</div>
     </div>
   </li>
 </ul>
