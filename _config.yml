@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Xander Hieken's Data Science Portfolio"
 title_separator          : "-"
-subtitle                 : "Data Science Portfolio"
+subtitle                 : "Portfolio Home"
 name                     : "Xander Hieken"
 description              : "A work in progress..."
 url                      : "https://xanderhieken.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "xanderhieken/xanderhieken.github.io"
 teaser                   : "assets/Tags.jpg"
-logo                     : "assets/TinyTrail.jpg"
+logo                     : "assets/TinyIcon.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
