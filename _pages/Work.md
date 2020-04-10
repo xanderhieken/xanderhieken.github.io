@@ -1,9 +1,7 @@
 ---
-layout: archive
+layout: posts
 permalink: /work/
 title: "My Data Science Work"
-collection: work
-entries_layout: grid
 author_profile: true
 excerpt: "Browse Works Below or Go Directly to my GitHub Profile"
 header:
