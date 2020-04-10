@@ -1,5 +1,5 @@
 ---
-title: "PlayerUnknown's Battlegrounds Behavioral Analysis"
+title: "PUBG Behavioral Analysis"
 date: 2020-04-05
 tags:
  - Python
