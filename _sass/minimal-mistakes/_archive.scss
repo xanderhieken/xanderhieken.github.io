@@ -49,7 +49,6 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
-  text-decoration: none;
 
   a[rel="permalink"]::before {
     content: '';
@@ -70,6 +69,7 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    text-decoration: none;
   }
 }
 
