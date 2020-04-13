@@ -419,7 +419,6 @@
     .archive__item-title {
       margin-top: 0.25em;
       font-size: 1em;
-      text-decoration: none;
     }
   }
 
@@ -436,7 +435,6 @@
    ========================================================================== */
 
   .wide {
-    text-decoration: none;
   .archive {
     @include breakpoint($large) {
       padding-right: 0;
@@ -453,6 +451,6 @@
 .layout--single {
 	.feature__wrapper {
 		display: inline-block;
-		#text-decoration: none;
+		text-decoration: none;
 	}
 }
