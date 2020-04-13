@@ -265,6 +265,7 @@ defaults:
       type: posts
     values:
       layout: single
+      text-decoration: none
       author_profile: true
       read_time: false
       comments: # true
@@ -276,4 +277,5 @@ defaults:
       type: pages
     values:
       layout: single
+      text-decoration: none
       author_profile: true
