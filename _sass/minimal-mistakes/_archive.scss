@@ -29,6 +29,7 @@
 
   a[rel="permalink"] {
     position: static;
+    text-decoration: none;
   }
 }
 
@@ -50,6 +51,7 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-decoration: none;
 
   a[rel="permalink"]::before {
     content: '';
@@ -90,6 +92,7 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+  text-decoration: none;
 
   img {
     width: 100%;
@@ -110,6 +113,7 @@
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
+  text-decoration: none;
 
   @include breakpoint($large) {
     padding: 5px 10px;
@@ -137,6 +141,7 @@
    ========================================================================== */
 
 .archive {
+  text-decoration: none;
   .grid__wrapper {
     /* extend grid elements to the right */
 
@@ -436,6 +441,7 @@
    ========================================================================== */
 
   .wide {
+    text-decoration: none;
   .archive {
     @include breakpoint($large) {
       padding-right: 0;
@@ -452,5 +458,6 @@
 .layout--single {
 	.feature__wrapper {
 		display: inline-block;
+		text-decoration: none;
 	}
 }
