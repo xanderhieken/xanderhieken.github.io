@@ -125,6 +125,7 @@ body {
   }
 
   a:not(.btn) {
+    text-decoration: none;
     &:hover {
       text-decoration: none;
 
@@ -524,6 +525,7 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 /*
