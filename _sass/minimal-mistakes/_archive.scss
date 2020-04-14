@@ -24,7 +24,6 @@
   a {
     position: relative;
     z-index: 10;
-    text-decoration: none;
   }
 
   a[rel="permalink"] {
@@ -41,6 +40,7 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    text-decoration: none;
   }
 }
 
@@ -50,6 +50,7 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-decoration: none;
 
   a[rel="permalink"]::before {
     content: '';
@@ -63,6 +64,7 @@
 
   a + a {
     opacity: 0.5;
+    text-decoration: none;
   }
 }
 
@@ -71,6 +73,7 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    text-decoration: none;
   }
 }
 
@@ -84,6 +87,7 @@
 
   a {
     position: relative;
+    text-decoration: none;
   }
 }
 
@@ -130,6 +134,7 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+    text-decoration: none;
   }
 }
 
@@ -206,6 +211,7 @@
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
+    text-decoration: none;
   }
 
   .archive__item-excerpt {
@@ -286,6 +292,7 @@
     top: 0;
     right: 0;
     bottom: 0;
+    text-decoration: none;
   }
 
   &--left {
@@ -312,6 +319,7 @@
       top: 0;
       right: 0;
       bottom: 0;
+      text-decoration: none;
     }
 
     @include breakpoint($small) {
@@ -353,6 +361,7 @@
       top: 0;
       right: 0;
       bottom: 0;
+      text-decoration: none;
     }
 
     @include breakpoint($small) {
@@ -397,6 +406,7 @@
       top: 0;
       right: 0;
       bottom: 0;
+      text-decoration: none;
     }
 
     @include breakpoint($small) {
@@ -422,6 +432,7 @@
     .archive__item-title {
       margin-top: 0.25em;
       font-size: 1em;
+      text-decoration: none;
     }
   }
 
