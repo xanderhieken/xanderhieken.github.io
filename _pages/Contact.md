@@ -8,17 +8,9 @@ header:
     - label: "Send me an email"
       url: "mailto:xanderhieken@gmail.com"
 ---
-## Follow me on the internet
-
-I rarely post on social media, but if you care to follow me:
+## Find me on the internet:
 
 <ul class="social-media">
-  <li>
-    <div class="text">
-      <div class="name"><a href="https://twitter.com/XanderHieken" rel="nofollow">Twitter</a></div>
-      <div class="description">I mostly post about hockey and video games</div>
-    </div>
-  </li>
   <li>
     <div class="text">
       <div class="name"><a href="https://github.com/xanderhieken" rel="nofollow">GitHub</a></div>
