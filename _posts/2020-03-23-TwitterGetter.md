@@ -37,7 +37,7 @@ header:
 
 Before you can request data from the Twitter API, you are going to need to create a Twitter account and generate your own keys on [the developer page](https://developer.twitter.com/en/account/get-started).
 
-```
+```py
 API_KEY = 'INSERT YOUR KEY HERE' 
 API_SECRET = 'INSERT YOUR KEY HERE'
 TOKEN_KEY = 'INSERT YOUR KEY HERE'
@@ -50,7 +50,7 @@ The packages necessary to run this notebook are provided in requirements.txt whi
 
 *Make sure requirements.txt is in the terminal's current directory*
 
-```
+```py
 pip install -r requirements.txt
 ```
 
@@ -60,7 +60,7 @@ The first two methods illustrated in this notebook include a variable with a "ha
 
 The third method uses Twitter's streaming API, which uses the following format to enter your search term(s):
 
-```
+```py
 stream.filter(track=['ENTER YOUR SEARCH TERM(S) HERE'])
 ```
 
