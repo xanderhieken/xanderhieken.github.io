@@ -28,10 +28,10 @@ You work for an airline on the data science team as a data analyst and are a res
 
 ## The Data
 The first dataset was included in Nate Silver's article and was mandatory for this project:
-* Aviation Safety Network statistics for airline fatalities from https://github.com/fivethirtyeight/data/tree/master/airline-safety
+* [**Aviation Safety Network statistics for airline fatalities**](https://github.com/fivethirtyeight/data/tree/master/airline-safety)
 
 Additionally, I was required to use one supplemental dataset for my visualizations, so I settled on highway fatality data to contrast the airline statistics:
-* National Highway Traffic Safety Administration (NHTSA) statistics for fatal crashes from https://www-fars.nhtsa.dot.gov/Main/index.aspx
+* [**National Highway Traffic Safety Administration (NHTSA) statistics for fatal crashes**](https://www-fars.nhtsa.dot.gov/Main/index.aspx)
 
 ## Tasks
 1. Use the data to create compelling graphics in Tableau
@@ -45,9 +45,9 @@ Additionally, I was required to use one supplemental dataset for my visualizatio
 	* Should follow the design aesthetic of the blog post
 
 ## Results
-[Blog Post](https://xanderhieken.github.io/assets/AirlineSafetyBlogPost.pdf)
+[**Blog Post**](https://xanderhieken.github.io/assets/AirlineSafetyBlogPost.pdf)
 
-[Infographic](https://xanderhieken.github.io/assets/AirlineSafetyInfographic.pdf)
+[**Infographic**](https://xanderhieken.github.io/assets/AirlineSafetyInfographic.pdf)
 	
 ## Author
 
