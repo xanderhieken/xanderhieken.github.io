@@ -38,7 +38,7 @@ The packages necessary to run this notebook are provided in requirements.txt whi
 
 *Make sure requirements.txt is in the terminal's current directory*
 
-```
+```py
 pip install -r requirements.txt
 ```
 
@@ -49,7 +49,7 @@ If you are downloading everything to run locally, there folders labeled "2017" a
 The following line of code in the first cell is where you will need to enter the filepath where you want your new data warehouse to be stored:
 *I would set this to an empty folder to keep everything tidy*
 
-```
+```py
 warehouse_dir = 'PATH/TO/YOUR/DATA/WAREHOUSE'
 ```
 
@@ -61,7 +61,7 @@ I like to allocate 25% of the driver memory to Spark's executors, but this is ju
 
 You can adjust the "4g" (for 4 GB) to different amounts to see how it affects performance.
 
-```
+```py
 .config("spark.executor.memory", "4g")
 ```
 
@@ -69,7 +69,7 @@ It is recommended to allocate no more than 75% of your system's RAM to the drive
 
 The data used in this notebook is only about 35 MB, so it should be small enough to run on anyone's system, so you can adjust the "16g" (for 16 GB) to different values to see how it affects performance.
 
-```
+```py
 .config("spark.driver.memory", "16g")
 ```
 
@@ -79,7 +79,7 @@ This will drastically increase Spark's performance because it uses **a lot** of 
 
 If your system has over 32 GB of RAM, you will need to delete this line before running the cell or else it won't run.
 
-```
+```py
 .config("spark.driver.extraJavaOptions", "-XX:+UseCompressedOops")
 ```
 
