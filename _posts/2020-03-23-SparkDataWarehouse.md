@@ -91,7 +91,7 @@ After running the code, the data warehouse will contain a bunch of folders full 
 
 ## Author
 
-**Xander Hieken** - *Additional Work* - [xanderhieken](https://github.com/xanderhieken)
+**Xander Hieken**
 
 
 ## Acknowledgments
