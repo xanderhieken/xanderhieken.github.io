@@ -5,3 +5,5 @@ main:
     url: /work/
   - title: "Contact"
     url: /contact/
+  - title: "Resume"
+    url: /assets/Resume.pdf
