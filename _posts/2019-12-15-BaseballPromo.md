@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Baseball Marketing Promotions"
+title: "Optimizing A Baseball Marketing Promotion"
 date: 2019-12-15
 tags:
  - Python
