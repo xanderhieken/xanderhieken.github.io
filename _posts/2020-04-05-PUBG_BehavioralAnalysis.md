@@ -19,6 +19,7 @@ header:
       url: "https://github.com/xanderhieken/PUBG_BehavioralAnalysis"
 ---
 
+
 # PlayerUnknown’s Battlegrounds Behavioral Analysis
 **This analysis takes game and death data from over 720,000 games of PUBG to learn more about player behavior and help make recommendations to increase their engagement with the game.**
 
@@ -31,8 +32,8 @@ Those collections are each split into five CSV files that are approximately 2 GB
 
 ![PUBG Data](https://xanderhieken.github.io/assets/PUBGdata.png)
 
-## Video Presentation of Results
-<iframe src="https://drive.google.com/file/d/1Essld83pqs3WCZJet2ll8RcMQaoBNdpF/preview" width="640" height="480"></iframe>
+## Video Presentation of the Process and Results
+<iframe src="https://drive.google.com/file/d/1Essld83pqs3WCZJet2ll8RcMQaoBNdpF/preview" width="640" height="360"></iframe>
 
 ## Author
 **Xander Hieken**
