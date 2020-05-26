@@ -18,8 +18,6 @@ header:
     - label: "Go to GitHub Repository"
       url: "https://github.com/xanderhieken/PUBG_BehavioralAnalysis"
 ---
-
-
 # PlayerUnknown’s Battlegrounds Behavioral Analysis
 **This analysis takes game and death data from over 720,000 games of PUBG to learn more about player behavior and help make recommendations to increase their engagement with the game.**
 
