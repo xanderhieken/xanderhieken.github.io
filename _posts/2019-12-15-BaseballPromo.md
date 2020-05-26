@@ -15,10 +15,11 @@ header:
 ---
 
 # Using Data to Improve a Marketing Promotion for the LA Dodgers
+***
 For this project, I was asked to evaluate data from the 2012 season to help select a promotion with the highest potential to increase attendance.
 
 ### Project Guidelines
-1. You must use both Python and R in some capacity.
+1. You must use both Python and R in some capacity
 2. You must demonstrate the use of Box Plots, Scatter Plots, and a Regression Model
 
 ## The Data
