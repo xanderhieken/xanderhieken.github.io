@@ -59,6 +59,7 @@ In the data folder of the GitHub repository, you will find four CSV files:
 ![Neural Network](https://xanderhieken.github.io/assets/NeuralNetwork.png)
 
 >Next, I had to test the correlation of all the features to figure out which one(s) have the highest correlation with the target (Percentage of Cap Space), so I could use those features for regression.
+
 * Simple linear regression used **Assists Per 60 Minutes** since it had the highest correlation with the target.
 
 * Multiple linear regression used **Assists Per 60 Minutes** plus the next six features that had the highest correlation with the target
@@ -67,6 +68,7 @@ In the data folder of the GitHub repository, you will find four CSV files:
 **Surprisingly, multiple linear regression wound up narrowly outperforming the neural network in terms of prediction accuracy. However, none of the models appear to be effective enough to make reliable player valuations.**
 
 Target Variable: **Percentage of the Salary Cap**
+
 Mean Percentage of the Salary Cap: **0.0552**
 
 >**Mean Absolute Error**
