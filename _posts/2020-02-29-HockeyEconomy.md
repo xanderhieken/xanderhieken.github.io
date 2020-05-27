@@ -24,22 +24,22 @@ There comes a point in *every* season of *every* professional sport where teams,
 ## The Data
 In the data folder of the GitHub repository, you will find four CSV files:
 
-1. `SkaterStats.csv`
- * Contains basic statistics from [NHL.com/stats](http://www.nhl.com/stats/skaters?aggregate=0&reportType=season&seasonFrom=20092010&seasonTo=20182019&gameType=2&status=active&filter=gamesPlayed,gte,0&sort=a_skaterFullName&page=0&pageSize=100) for all active players
+* `SkaterStats.csv`
+	* Contains basic statistics from [NHL.com/stats](http://www.nhl.com/stats/skaters?aggregate=0&reportType=season&seasonFrom=20092010&seasonTo=20182019&gameType=2&status=active&filter=gamesPlayed,gte,0&sort=a_skaterFullName&page=0&pageSize=100) for all active players
 
-2. `CapFriendly.csv`
- * Contains contract and salary cap data from [CapFriendly.com](https://www.capfriendly.com/browse/active/2020/signing-date/all/all/all/asc&display=birthday,country,slide-candidate,waivers-exempt,signing-status,expiry-year,performance-bonus,signing-bonus,caphit-percent,aav,length,minors-salary,base-salary,arbitration-eligible,type,signing-age,signing-date,arbitration,extension) for all active players
+* `CapFriendly.csv`
+	* Contains contract and salary cap data from [CapFriendly.com](https://www.capfriendly.com/browse/active/2020/signing-date/all/all/all/asc&display=birthday,country,slide-candidate,waivers-exempt,signing-status,expiry-year,performance-bonus,signing-bonus,caphit-percent,aav,length,minors-salary,base-salary,arbitration-eligible,type,signing-age,signing-date,arbitration,extension) for all active players
 
-3. `Taxes.csv`
- * Contains tax and cost of living data for each city that is home to an NHL team
+* `Taxes.csv`
+	* Contains tax and cost of living data for each city that is home to an NHL team
 
 >**The above files are imported into RStudio to clean and prepare the data.**
 >* The R Markdown file can be found in the GitHub repository for the project if you want to see the steps taken to clean and combine the data
 >
 >* If you would rather skip to the analysis, I have also included the processed data file that gets exported from RStudio
 
-4. `CleanHockeyData.csv`
- * Contains the combined, processed, and exported data from RStudio that is used for analysis in Python
+* `CleanHockeyData.csv`
+	* Contains the combined, processed, and exported data from RStudio that is used for analysis in Python
 
 ## The Process
 **Data Preparation**
