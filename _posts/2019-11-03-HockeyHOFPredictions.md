@@ -60,7 +60,7 @@ At this point, I knew that I would be using logistic regression to make binary p
 >		* 17 In
 
 ## Results
-As it turns out, there is a reason those players made it into the hall of fame- they've separated themselves from the rest of the pack, both statistically and metaphorically.
+As it turns out, there is a reason those players made it into the Hall of Fame- they've separated themselves from the rest of the pack, both statistically and metaphorically.
 
 Aside from three false negative predictions, the other 150 records in the test data were correctly classified:
 
