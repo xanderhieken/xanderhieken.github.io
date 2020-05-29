@@ -33,29 +33,32 @@ Both files necessary for this project can be found in the data folder of the Git
 
 * `movies.csv`
 
-	* Three columns: `movieId `, `title`, and `genre`
+	* Three features: `movieId `, `title`, and `genre`
 
 * `ratings.csv`
 
-	* Four columns: `userId`, `movieId`, `rating`, and `timestamp`
+	* Four features: `userId`, `movieId`, `rating`, and `timestamp`
 
 ## The Process
-After loading the data into Spark DataFrames, I split the ratings into testing and training sets with `(trainingRatings, testRatings) = ratings.randomSplit([0.8, 0.2])` to use 80% of the data for training and the remaining 20% for testing the model.
+After loading the data into Spark DataFrames, I split the ratings into testing and training sets of 80% and 20%, respectively:
+```python
+(trainingRatings, testRatings) = ratings.randomSplit([0.8, 0.2])
+```
 
 Spark uses Alternating Least Squares for collaborative filtering, so to build the model, these are the settings I used:
-```
+```python
 als = ALS(userCol='userId', itemCol='movieId', ratingCol='rating', coldStartStrategy="drop")
 ```
 >Note that `coldStartStrategy = "drop"` is used account for new users and movies that the model hasn't trained on.
 
 After setting that up, it's time to train and test the model:
-```
+```python
 model = als.fit(trainingRatings)
 predictions = model.transform(testRatings)
 ```
 ## Results
 To evaluate the performance of the model, I used Spark's `RegressionEvaluator` function:
-```
+```python
 evaluator = RegressionEvaluator(metricName='rmse', labelCol='rating', predictionCol='prediction')
 
 evaluator.evaluate(predictions)
