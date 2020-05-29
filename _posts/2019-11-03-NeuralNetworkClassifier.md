@@ -33,6 +33,7 @@ from keras.datasets import mnist
 (X_train, y_train), (X_test, y_test) = mnist.load_data()
 ```
 ## Tasks
+
 ### Part 1: Text Classification
 1. Build a neural network with Scikit-learn
 2. Build a neural network with Keras
