@@ -9,10 +9,15 @@ header:
       url: "https://github.com/xanderhieken/"
 ---
 
-I'm a graduate student at Bellevue University working toward a Master of Science in Data Science- graduating in May 2020.
+## Thanks for checking out my portfolio!
+>If you were looking for a more formal list of skills and work experience, you can find all that information on my [resume](https://xanderhieken.github.io/assets/Resume.pdf) or [LinkedIn profile](https://www.linkedin.com/in/xanderhieken/).
 
-With a strong background in financial analysis and sales, I've gained experience in statistical programming, machine learning, and AI to evolve and remain agile in the era of Big Data.
+This page is meant to help you get to know **me** a little better:
 
-Whether you need someone to design an experiment from scratch or make sure your data is cleaned and ready for a complex machine learning algorithm, I'm ready to hit the ground running and create immediate value for your team.
-
-Feel free to reach out via the email link on the left of this page with any questions or opportunities- I typically respond immediately.
+* My full first name is Alexander, but I prefer to go by Xander
+* I'm originally from St. Louis, Missouri
+* I'm the oldest of six kids (3 boys and 3 girls)
+* I have two cats (Jinx and Whiskey)
+* I'm an avid St. Louis Blues (hockey) fan
+* I met my wife during an internship at Disney World in 2008
+* According to [16 Personalities](https://www.16personalities.com/), my personality type is INTP
