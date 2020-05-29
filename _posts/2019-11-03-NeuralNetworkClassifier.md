@@ -36,21 +36,30 @@ from keras.datasets import mnist
 
 ### Part 1: Text Classification
 1. Build a neural network with Scikit-learn
+
 2. Build a neural network with Keras
+
 3. Use the neural networks to classify Reddit comments into one of four categories:
 
 	a. News
+	
 	b. Science and Technology
+	
 	c. Sports
+	
 	d. Video Games 
 	
 4. Report each model's accuracy, precision, recall, F1, and confusion matrix
 
 ### Part 2: Image Classification
 1. Load the MNIST dataset from Keras into testing and training sets
+
 2. Reshape and rescale the images to feed into the model
+
 3. Build a neural network with Keras
+
 4. Train and test the model
+
 5. Report the model's accuracy and loss
 
 ## Results
