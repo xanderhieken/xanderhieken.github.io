@@ -8,7 +8,8 @@ tags:
  - Image Classification
  - Neural Networks
  - Keras
-excerpt: "How Build Neural Network Classifiers for Text and Images with Keras"
+ - Scikit-learn
+excerpt: "How Build Neural Network Classifiers for Text and Images"
 header:
   overlay_image: "/assets/NeuralBackground.png"
   overlay_filter: 0.3 # same as adding an opacity of 0.3 to a black background
