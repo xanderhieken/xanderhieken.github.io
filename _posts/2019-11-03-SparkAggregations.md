@@ -3,12 +3,8 @@ title: "Spark Aggregations"
 date: 2019-11-03
 tags:
  - Python
- - JSON
  - Jupyter Notebook
- - SQL
- - SQLite
- - Data Warehousing
- - Streaming Data
+ - PySpark
 excerpt: "How to Join Datasets and Perform Aggregations with Spark"
 header:
   overlay_image: "/assets/SparkAggBackground.png"
@@ -19,7 +15,7 @@ header:
       url: "https://github.com/xanderhieken/SparkAggregations"
 ---
 
-# Joining Datasets and Performing Aggregations with Spark SQL
+# Joining Datasets and Performing Aggregations with Spark
 
 **This notebook shows how to join datasets in Spark and perform a variety of aggregations using Spark SQL by completing a series of common tasks.**
 
