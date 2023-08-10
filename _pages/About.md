@@ -20,4 +20,4 @@ This page is meant to help you get to know **me** a little better:
 * I have two cats (Jinx and Whiskey)
 * I'm an avid St. Louis Blues (hockey) fan
 * I met my wife during an internship at Disney World in 2008
-* According to [16 Personalities](https://www.16personalities.com/), my personality type is INTP
+* According to [16 Personalities](https://www.16personalities.com/), my personality type is INFJ
